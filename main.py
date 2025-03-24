@@ -1,3 +1,5 @@
+# automation webscraper and scrap data into the excel file
+
 import time
 import pandas as pd
 import pyautogui
